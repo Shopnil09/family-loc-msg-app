@@ -7,7 +7,7 @@ The stack of the application is provided below:
 - Back-End: JavaScript/Firestore
 
 # Instruction to run
-Download/Use node version manager to download node 14.15.0.
-Run nvm use 14.15.0 to use that specific node version
-Run npm install
-Run expo start
+- Download/Use node version manager to download node 14.15.0.
+- Run nvm use 14.15.0 to use that specific node version
+- Run npm install
+- Run expo start
