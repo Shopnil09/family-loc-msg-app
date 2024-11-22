@@ -6,6 +6,7 @@ The stack of the application is provided below:
 - Front-End: Expo React Native 
 - Back-End: JavaScript/Firestore
 
+NOTE-Input your firebase credentials to connect to Firebase database
 # Instruction to run
 - Download/Use node version manager to download node 14.15.0.
 - Run nvm use 14.15.0 to use that specific node version
