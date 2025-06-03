@@ -57,8 +57,8 @@ const AddChatScreen = ({ navigation }) => {
     navigation.setOptions({
       title: "Add a New Chat",
       headerBackTitle: "Chats"
-    }, [navigation])
-  })
+    })
+  }, [navigation])
   return (
     <View>
       <Input
